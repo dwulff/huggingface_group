@@ -21,5 +21,4 @@ This is the home of the MPIB-Unibas-CAS Hugging Face Training Group.
 2. March 29 - Chapter 3 - ??? (Skip because of TeaP?)
 3. April 12 - Live coding - ???
 4. April 26 - Chapter 4 - ???
-
-...
+5. ...
