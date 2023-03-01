@@ -4,7 +4,7 @@ This is the home of the MPIB-Unibas-CAS Hugging Face Training Group.
 
 ### Files
 
-1. Resources.md - Live document containing helpful resources for learning about neural networks, transformers, and applications to (psychological) science. 
+1. Resources.md - Live document containing helpful resources on neural networks, transformers, and applications to (psychological) science. 
 
 2. Code/ - Folder containing scripts / notebooks implementing transformers  
 
