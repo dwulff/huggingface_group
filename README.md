@@ -4,9 +4,10 @@ This is the home of the MPIB-Unibas-CAS Hugging Face Training Group.
 
 ### Rules
 
-1. This repo belongs to everyone. Make changes as you see fit. Assume others will. 
-2. Do not upload non-public data
-3. Pull before you push
+1. This repo belongs to everyone. Make changes as you see fit. Assume others will.
+2. If you have a message for everyone, create an issue. This will trigger an email to everyone.  
+2. Do not upload non-public data.
+3. Pull before you push.
 
 ### Files
 
