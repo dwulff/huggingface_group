@@ -4,7 +4,7 @@ This is the home of the MPIB-Unibas-CAS Hugging Face Training Group.
 
 ### Documents
 
-1. 
+1. Resources.md - Live document containing helpful resources for learning about neural networks, transformers, and applications to (psychological) science. 
 
 ### Schedule
 
@@ -16,3 +16,6 @@ This is the home of the MPIB-Unibas-CAS Hugging Face Training Group.
 
 3. April 12 - Live coding - ???
 
+4. April 26 - Chapter 4 - ???
+
+...
