@@ -19,6 +19,6 @@ This is the home of the MPIB-Unibas-CAS Hugging Face Training Group.
 0. March 1 - Chapter 1 - Zak
 1. March 15 - Chapter 2 - Julian
 2. March 29 - Skip because of TeaP
-3. April 12 - Chapter 2 - Live coding - Julian
+3. April 12 - Chapter 2 - Live coding - Julian  Notebook link: https://colab.research.google.com/drive/134FrXF7uBQ3TGdTOOMu49K6l7VYAFtV4?usp=sharing
 4. April 26 - Chapter 4 - ???
 5. ...
