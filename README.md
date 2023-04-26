@@ -13,12 +13,13 @@ This is the home of the MPIB-Unibas-CAS Hugging Face Training Group.
 
 1. Resources.md - Live document with helpful resources on neural networks, transformers, and applications to (psychological) science. 
 2. Code/ - Folder for your scripts and notebooks
+  a. Please include here scripts used in live coding. It makes sense to use the jupyter notebooks provided by the book authors (https://github.com/nlp-with-transformers/notebooks). This     allows us to keep environments similar across all our machines. Feel free to edit as you see fit. We can even use issues to highlight things and keep track of problems on specific OS       versions or whatever. Github is our friend here and we can make use of its functions :)
 
 ### Schedule
 
 0. March 1 - Chapter 1 - Zak
 1. March 15 - Chapter 2 - Julian
 2. March 29 - Skip because of TeaP
-3. April 12 - Chapter 2 - Live coding - Julian  Notebook link: https://colab.research.google.com/drive/134FrXF7uBQ3TGdTOOMu49K6l7VYAFtV4?usp=sharing
+3. April 12 - Chapter 2 - Live coding - Julian
 4. April 26 - Chapter 3 - Kamil
-5. ...
+5. May 31 - Chapter 3 - Kamil does live coding
