@@ -25,3 +25,6 @@ This is the home of the MPIB-Unibas-CAS Hugging Face Training Group.
 5. June 7 - Chapter 3 - Kamil does live coding
 6. June 28 - Chapter 3 - Kamil does live coding again
 7. July 5 - Movie watching with lunch; we start at 1200 in the meeting room
+8. August 30 - Chapter 4 - Nikolas
+9. September 13 - Chapter 5 - Hyosang
+10. September 27 - Chapter 6 - Samuel 
