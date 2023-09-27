@@ -27,4 +27,6 @@ This is the home of the MPIB-Unibas-CAS Hugging Face Training Group.
 7. July 5 - Movie watching with lunch; we start at 1200 in the meeting room
 8. August 30 - Chapter 4 - Nikolas
 9. September 13 - Chapter 5 - Hyosang
-10. September 27 - Chapter 6 - Samuel 
+10. September 27 - Chapter 6 - Samuel
+11. October 11 - Chapter 7 - Zak
+12. October 25 - Chapter 8 - Dirk
