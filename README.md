@@ -28,5 +28,6 @@ This is the home of the MPIB-Unibas-CAS Hugging Face Training Group.
 8. August 30 - Chapter 4 - Nikolas
 9. September 13 - Chapter 5 - Hyosang
 10. September 27 - Chapter 6 - Samuel
-11. October 11 - Chapter 7 - Zak
-12. October 25 - Chapter 8 - Dirk
+11. October 11 - Skip
+12. October 25 - Chapter 7 - Zak
+13. November 8 - Chapter 8 - Dirk
