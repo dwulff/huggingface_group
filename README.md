@@ -30,4 +30,4 @@ This is the home of the MPIB-Unibas-CAS Hugging Face Training Group.
 10. September 27 - Chapter 6 - Samuel
 11. October 11 - Skip
 12. October 25 - Chapter 7 - Zak
-13. November 8 - Chapter 8 - Dirk
+13. November 22 - Chapter 8 - Dirk
